@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "ess-catalogue"
+  description: "ess-catalogue"
+  annotations:
+    github.com/project-slug: ssasvathan/ess-app
+    backstage.io/techdocs-ref: url:https://github.com/ssasvathan/ess-app
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "ssasvathan"

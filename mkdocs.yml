@@ -1,0 +1,8 @@
+site_name: "ess-catalogue"
+site_description: "ess-catalogue"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
